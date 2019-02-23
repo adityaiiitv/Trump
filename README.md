@@ -2,9 +2,12 @@
 
 This is a simple maze based game. You have to get President Trump out of a maze. Created using Unity, Vuforia, C#
 
+Future extension: To create a maze with enemy NPCs
+
 ![](https://github.com/adityaiiitv/Trump/blob/master/Pictures/1.PNG)
 
 Start the application, nothing appears but the joystick
+
 
 
 ![The President is here](https://github.com/adityaiiitv/Trump/blob/master/Pictures/2.PNG)
@@ -12,9 +15,11 @@ Start the application, nothing appears but the joystick
 Point to Harry Potter Marker and the president appears in a maze
 
 
+
 ![](https://github.com/adityaiiitv/Trump/blob/master/Pictures/3.PNG)
 
 Navigate the president through the maze
+
 
 
 ![](https://github.com/adityaiiitv/Trump/blob/master/Pictures/4.PNG)
