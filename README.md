@@ -31,7 +31,7 @@ Working:
 
 (1) Use vuforia marker to import the maze and the animated character
 
-(2) Import joystick and map the movements of the character with the joystick.
+(2) Import joystick and map the movements of the character with the joystick
 
 (3) Use some animation to make the movement interesting
 
