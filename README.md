@@ -1,7 +1,7 @@
 ![](https://github.com/adityaiiitv/Trump/blob/master/Pictures/b28ce487-4617-4343-9b1c-bdb2cb5b8123.png)
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - Linkedin</a></div>
 # Trump
-
+![The President is here](https://github.com/adityaiiitv/Trump/blob/master/Pictures/2.PNG)
 This is a simple maze based game. You have to get President Trump out of a maze. Created using Unity, Vuforia, C#
 
 Working:
