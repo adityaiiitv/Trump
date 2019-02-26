@@ -1,4 +1,5 @@
 ![](https://github.com/adityaiiitv/Trump/blob/master/Pictures/b28ce487-4617-4343-9b1c-bdb2cb5b8123.png)
+![](https://github.com/adityaiiitv/Trump/tree/master/Pictures)
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="aditya-prakash-74039b14b"><a class="LI-simple-link" href='https://www.linkedin.com/in/aditya-prakash-74039b14b?trk=profile-badge'>Aditya Prakash - LinkedIn</a></div>
 # Trump
 ![The](https://github.com/adityaiiitv/Trump/blob/master/Pictures/2.PNG)
